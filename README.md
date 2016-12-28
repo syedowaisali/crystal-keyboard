@@ -13,7 +13,7 @@ Urdu keyboard for android.
 Add a dependency to your `build.gradle`:
 ```groovy
 dependencies {
-    compile 'com.crystal:crystalkeyboard:1.0.0'
+    compile 'com.crystal:crystalkeyboard:1.0.1'
 }
 ```
 
@@ -22,14 +22,14 @@ dependencies {
 <dependency> 
     <groupId>com.crystal</groupId>
     <artifactId>crystalkeyboard</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <type>pom</type>
 </dependency>
 ```
 
 ### Ivy
 ```groovy
-<dependency org='com.crystal' name='crystalkeyboard' rev='1.0.0'>
+<dependency org='com.crystal' name='crystalkeyboard' rev='1.0.1'>
     <artifact name='crystalkeyboard' ext='pom' ></artifact>
 </dependency>
 ```
